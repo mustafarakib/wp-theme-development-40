@@ -1,3 +1,4 @@
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access pages directly.
 
 
 function stock_theme_options( $options ){
